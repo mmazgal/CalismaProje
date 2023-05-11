@@ -1,0 +1,28 @@
+@model CalismaProje.ViewModels.ProductViewModel
+
+@*@{
+    Layout=("~/Views/Shared/Components/_Layout.cshtml");
+}*@
+
+<div class="row">
+    <div class="col-md-3">
+        @await Component.InvokeAsync("Categories")
+    </div>
+    <div class="col-md-9">
+            @if(Model.Products.Count==0)
+            {
+                @await Html.PartialAsync("~/Views/Shared/Components/_productalert")
+            }
+            else
+            {
+                <div class="row">
+                    @foreach (var product in Model.Products)
+                    {
+                        <div class="col-md-3">
+                             @await Html.PartialAsync("~/Views/Shared/Components/_productcard.cshtml", product)
+                        </div>
+                    }
+                </div>
+            }
+    </div>
+</div>

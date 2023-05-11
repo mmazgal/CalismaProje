@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Masaüstü\\mvc\\CalismaProje\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\muham\\OneDrive\\Masaüstü\\mvc\\CalismaProje\\wwwroot\\img\\resim.jpeg",
+      "PackagePath": "staticwebassets\\img\\resim.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CalismaProje.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.CalismaProje.props",
+      "PackagePath": "build\\CalismaProje.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.CalismaProje.props",
+      "PackagePath": "buildMultiTargeting\\CalismaProje.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.CalismaProje.props",
+      "PackagePath": "buildTransitive\\CalismaProje.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

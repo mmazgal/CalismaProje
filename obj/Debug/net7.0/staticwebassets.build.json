@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "JEfgjFiEXxKLs13650UJJQO7sZDK+y3oICtA/4uCBCM=",
+  "Source": "CalismaProje",
+  "BasePath": "_content/CalismaProje",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CalismaProje\\wwwroot",
+      "Source": "CalismaProje",
+      "ContentRoot": "C:\\Users\\muham\\OneDrive\\Masaüstü\\mvc\\CalismaProje\\wwwroot\\",
+      "BasePath": "_content/CalismaProje",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\muham\\OneDrive\\Masaüstü\\mvc\\CalismaProje\\wwwroot\\css\\style.css",
+      "SourceId": "CalismaProje",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\muham\\OneDrive\\Masaüstü\\mvc\\CalismaProje\\wwwroot\\",
+      "BasePath": "_content/CalismaProje",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\muham\\OneDrive\\Masaüstü\\mvc\\CalismaProje\\wwwroot\\img\\resim.jpeg",
+      "SourceId": "CalismaProje",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\muham\\OneDrive\\Masaüstü\\mvc\\CalismaProje\\wwwroot\\",
+      "BasePath": "_content/CalismaProje",
+      "RelativePath": "img/resim.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\resim.jpeg"
+    }
+  ]
+}

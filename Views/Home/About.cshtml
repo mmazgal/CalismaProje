@@ -1,0 +1,14 @@
+@model CalismaProje.ViewModels.ProductViewModel
+
+@*@{
+    Layout=("~/Views/Shared/Components/_Layout.cshtml");
+}*@
+
+<div class="row">
+    <div class="col-md-3">
+        @await Component.InvokeAsync("Categories")
+    </div>
+    <div class="col-md-9">
+        PRODUCT INDEX PAGE
+    </div>
+</div>
